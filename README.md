@@ -1,2 +1,2 @@
 # JavaScript-Projects
- lengu
+ Ejecicios y proyectos del curso JavaScript.
