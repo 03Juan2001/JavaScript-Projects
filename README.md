@@ -1,2 +1,2 @@
 # JavaScript-Projects
- Ejecicios y proyectos del curso JavaScript.
+ Ejecicios y proyectos de herencia del curso JavaScript.
